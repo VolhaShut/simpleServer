@@ -1,0 +1,11 @@
+{
+  "name": "simpleServer",
+  "version": "0.2.0",
+  "description":"download txt file",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    
+  }
+}

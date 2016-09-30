@@ -1,0 +1,6 @@
+{
+    "port":"3000",
+    "txt":"public/test.txt",
+    "pdf":"public/test.pdf",
+    "html":"index.html"
+}
